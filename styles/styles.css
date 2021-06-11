@@ -1,0 +1,70 @@
+body{
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    
+}
+h2{
+    color: hsl(179, 62%, 43%);
+}
+.main-text{
+    color: hsl(71, 73%, 54%);
+}
+.main-text-p{
+    color: hsl(218, 22%, 67%) ;
+}
+.container-fluid{
+    padding: 3% 10%;
+} 
+
+/* main section */
+#main{
+    text-align: left;
+    background-color: #fff;
+}
+/* content section */
+#content{
+    text-align: center;
+    
+}
+
+.subscription{
+    background-color: hsl(179, 62%, 43%);
+    color: #fff;
+}
+.price{
+    font-size: 40px;
+    color: #fff;
+}
+.my-price{
+    color:hsl(204, 43%, 93%) ;
+}
+.reason{
+   background-color: hsl(177,46%,51%);
+   color: hsl(204, 43%, 93%);
+   text-align: left;
+}
+
+.my-btn{
+   background-color: hsl(71, 73%, 54%);
+    color: #fff;
+    width: 70%;
+}
+
+.my-card{
+    padding: 3% 5%;
+   text-align: left;
+   line-height: 0.9;
+}
+.why{
+    color: #fff;
+}
+
+
+
+
+.attribution {
+     font-size: 11px; text-align: center;
+     }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     }
